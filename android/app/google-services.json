@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441612133038",
+    "project_id": "sstation-ac2ef",
+    "storage_bucket": "sstation-ac2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441612133038:android:fb9911dd2a0e49d02b433f",
+        "android_client_info": {
+          "package_name": "com.example.sstation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvK61YAxMu0TMkSGKzqSYMl8psz1ChlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

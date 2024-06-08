@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.sstation",
+      "sha256_cert_fingerprints":
+        ["06:A2:06:1B:0C:80:15:83:F3:9A:3A:8B:D8:A9:53:A9:8D:80:49:A6:73:0C:3B:47:71:06:1E:7A:9C:72:02:A0"]
+    }
+  }]

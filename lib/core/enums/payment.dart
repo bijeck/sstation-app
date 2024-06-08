@@ -1,0 +1,4 @@
+enum PaymentProvider {
+  momo,
+  vnpay,
+}
